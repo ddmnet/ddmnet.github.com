@@ -1,3 +1,8 @@
+---
+title: Home
+layout: base
+---
+
 # TeamDDM
 
 We're a full-service marketting firm.  One of our services is Interactive, which encompases web, mobile, social, and apps.  For more information about us, see [our website](http://teamddm.com).
