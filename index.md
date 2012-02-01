@@ -3,8 +3,6 @@ title: Home
 layout: base
 ---
 
-# TeamDDM
-
 We're a full-service marketing firm.  One of our services is Interactive, which encompasses web, mobile, social, and apps.  For more information about us, see [our website](http://teamddm.com).
 
 ## Our projects
