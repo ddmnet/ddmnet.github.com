@@ -503,7 +503,7 @@ form.bp form.inline p {
 }
 
 /* line 39, ../sass/screen.scss */
-#container {
+#main, #footer {
   width: 950px;
   margin: 0 auto;
   overflow: hidden;
