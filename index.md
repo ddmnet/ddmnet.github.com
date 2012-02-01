@@ -12,7 +12,7 @@ We've got a few little contributions we've made to the open source community.
 
  - [Wobbly](http://blog.teamddm.com/2012/02/wobbly-ios-style-wobbling-element-deletion-for-jquery/)
 
-   A jQurey plugin that implements the wobble-style iOS deletion of elements, with CSS3 and callbacks.
+   A jQuery plugin that implements the wobble-style iOS deletion of elements, with CSS3 and callbacks.
 
 ## That's all!
 
