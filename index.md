@@ -5,7 +5,7 @@ layout: base
 
 # TeamDDM
 
-We're a full-service marketting firm.  One of our services is Interactive, which encompases web, mobile, social, and apps.  For more information about us, see [our website](http://teamddm.com).
+We're a full-service marketing firm.  One of our services is Interactive, which encompasses web, mobile, social, and apps.  For more information about us, see [our website](http://teamddm.com).
 
 ## Our projects
 
