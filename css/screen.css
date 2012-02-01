@@ -494,6 +494,15 @@ form.bp form.inline p {
 }
 
 /* line 34, ../sass/screen.scss */
+#header {
+  width: 950px;
+  margin: 0 auto;
+  overflow: hidden;
+  *zoom: 1;
+  margin-top: 1em;
+}
+
+/* line 39, ../sass/screen.scss */
 #container {
   width: 950px;
   margin: 0 auto;
@@ -501,14 +510,14 @@ form.bp form.inline p {
   *zoom: 1;
 }
 
-/* line 40, ../sass/screen.scss */
+/* line 45, ../sass/screen.scss */
 body.two-col #container {
   width: 950px;
   margin: 0 auto;
   overflow: hidden;
   *zoom: 1;
 }
-/* line 42, ../sass/screen.scss */
+/* line 47, ../sass/screen.scss */
 body.two-col #header, body.two-col #footer {
   display: inline;
   float: left;
@@ -519,7 +528,7 @@ body.two-col #header, body.two-col #footer {
 * html body.two-col #header, * html body.two-col #footer {
   overflow-x: hidden;
 }
-/* line 44, ../sass/screen.scss */
+/* line 49, ../sass/screen.scss */
 body.two-col #sidebar {
   display: inline;
   float: left;
@@ -530,7 +539,7 @@ body.two-col #sidebar {
 * html body.two-col #sidebar {
   overflow-x: hidden;
 }
-/* line 48, ../sass/screen.scss */
+/* line 53, ../sass/screen.scss */
 body.two-col #content {
   display: inline;
   float: left;
